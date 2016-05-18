@@ -1,0 +1,20 @@
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\csc.exe
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\System.Collections.Immutable.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\vbc.exe
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\VBCSCompiler.exe
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\roslyn\VBCSCompiler.exe.config
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\Sol Calc Online.dll.config
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\Sol Calc Online.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\Sol Calc Online.pdb
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\obj\Debug\Sol Calc Online.csprojResolveAssemblyReference.cache
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\obj\Debug\Sol Calc Online.dll
+c:\users\kyler\documents\visual studio 2015\Projects\Sol Calc Online\Sol Calc Online\obj\Debug\Sol Calc Online.pdb
